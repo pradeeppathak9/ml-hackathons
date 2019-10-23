@@ -2,9 +2,9 @@
 
 Link: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
 
-Private Leaderboard Rank: 11
-Private Leaderboard Score: 0.9794331759  
-Public Leaderboard Rank: 13
+Private Leaderboard Rank: 11   
+Private Leaderboard Score: 0.9794331759    
+Public Leaderboard Rank: 13   
 Public Leaderboard Score: 0.9840785318  
 
 VM Specs while working out these steps
