@@ -1,3 +1,13 @@
+# AmExpert 2019
+
+Link: https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/
+
+Private Leaderboard Rank: 4    
+Private Leaderboard Score: 0.9320013348    
+Public Leaderboard Rank: 15    
+Public Leaderboard Score: 0.9396491009     
+    
+
 VM Specs while working out these steps
 Ram - 60 GB
 CPU - 15 cores
