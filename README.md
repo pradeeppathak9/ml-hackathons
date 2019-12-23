@@ -1,1 +1,1 @@
-# AnalyticsVidhyaHacks
+# Solutions of ML hackathons
