@@ -9,4 +9,4 @@ scipy==1.1.0
 tqdm==4.28.1
 xgboost==0.82
 catboost==0.13.1
-joblib==0.13.2
+joblib==1.2.0
